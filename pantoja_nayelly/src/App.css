@@ -40,3 +40,30 @@
 .read-the-docs {
   color: #888;
 }
+
+.contenedor {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 500px;
+  height: 300px;
+
+}
+
+.inputs {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border-radius: 7px;
+  background-color: #f8f8f817;
+  font-size: 20px;
+}
+
+.boton {
+  background-color: #4c99af;
+  color: white;
+  margin: 8px 0;
+  border-radius: 7px;
+  cursor: pointer;
+}
